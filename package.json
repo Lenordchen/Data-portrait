@@ -1,0 +1,14 @@
+{
+  "name": "writting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^9.0.6"
+  }
+}

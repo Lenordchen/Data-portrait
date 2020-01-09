@@ -1,0 +1,333 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.928207,11.556374 ]
+    },
+    "properties": {
+    "Time":2013,
+    "Month": "Oct 15",
+    "Location":"Phnom Penh, Cambodia",
+    "Quote":"\"The Killing Land.\"\"They Killed My Father First.\"\"You will like Phnom Penh. Look, I can use my scooter to take you around the city if you want to.\"",
+    "Wordcount":2337,
+    "keyWord":"time",
+    "count":105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Time":2014,
+    "Month": "Nov 09",
+    "Location":"London, United Kingdom",
+    "Quote":"\"noisy, noisy, and crowded people.\"\"When a man is tried of London, he is tired of life.\"",
+    "Wordcount":1324,
+    "keyWord":"love",
+    "count":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.779383,37.888176 ]
+    },
+    "properties": {
+    "Time":2014,
+    "Month": "Dec 27",
+    "Location":"Cordoba, Spain",
+    "Quote":"\"Describe your favorite scenery and I will paint it out.\"\"Ah, don't know. I am just take a look.\"\"Look, this is the bridge in the evening, and that is the bridge with the sunrise, and see? here is the flowers Lane.\"",
+    "Wordcount":1667,
+    "keyWord":"life",
+    "count":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.083887,50.775345 ]
+    },
+    "properties": {
+    "Time":2015,
+    "Month": "Jan 07",
+    "Location":"Aachen, Germany",
+    "Quote":"\"If you want to stay forever young, you will have to die young.\"\"It sounds like Murakami's novel. We walked along the forest and there were only two of us. We talked about youth, life and death.\"",
+    "Wordcount":263,
+    "keyWord":"heart",
+    "count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.139337,38.722252 ]
+    },
+    "properties": {
+    "Time":2015,
+    "Month": "Feb 14",
+    "Location":"Lisbon, Portugal",
+    "Quote":"\"The old tram is passing through the city day and night, accompanied with Fado’s joyfulness and sadness.\"\"I stand on the edge of the land, and there is an endless journey in front of me.\"",
+    "Wordcount":128,
+    "keyWord":"moon",
+    "count":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.195129,16.866070 ]
+    },
+    "properties": {
+    "Time":2015,
+    "Month": "Sep 04",
+    "Location":"Yangon, Myanmar",
+    "Quote":"\"You still remember that.\"\"No matter where you go, it would definitely be dangerous if you go travel alone. But if you are confident enough, nothing can stop you.\"\"I think I am still quite confident.\"\"This self-confidence means that you can protect yourself under any circumstances.  Remember you cried in that town last time, don’t you think being emotional will make the situation worse?\"\"Fear doesn’t come from war, it comes from heart.\"Please take care of the tourists.\"\"San Francisco.\"\"What do you want to eat? I will let them cook for you.\"",
+    "Wordcount":2514,
+    "keyWord":"beautiful",
+    "count":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473701,31.230391 ]
+    },
+    "properties": {
+    "Time":2015,
+    "Month": "Dec 31",
+    "Location":"Shanghai, China",
+    "Quote":"\"A consistent dedication will make us harvest love, happiness, and happiness.\"\"Come on! Let's go together. The New Year is coming. let's go to the bar and dance.\"",
+    "Wordcount":1141,
+    "keyWord":"bridge",
+    "count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.198288,20.044413 ]
+    },
+    "properties": {
+    "Time":2016,
+    "Month": "Feb 10",
+    "Location":"Haikou, China",
+    "Quote":"\"This is something that I always believe in.\"\"Youth should not supposed to be defined by age.\"",
+    "Wordcount":1565,
+    "keyWord":"memory",
+    "count":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.315515,45.440845 ]
+    },
+    "properties": {
+    "Time":2016,
+    "Month": "Oct 09",
+    "Location":"Venice, Italy",
+    "Quote":"\"I will take you with you.\"",
+    "Wordcount":470,
+    "keyWord":"prison",
+    "count":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Time":2016,
+    "Month": "Nov 04",
+    "Location":"Paris, France",
+    "Quote":"\"not reliable, unstable.\"",
+    "Wordcount":924,
+    "keyWord":"universe",
+    "count":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396427 ]
+    },
+    "properties": {
+    "Time":2017,
+    "Month": "Jan 21",
+    "Location":"Hong Kong",
+    "Quote":"\"The lover.\"\"It cost 300HKD to take a taxi to your place. I would rather we go out just now than have a dinner in Central.\"\"He lived purely and proudly at that time. You know, when a talented person stays as free as he wants, there will always be someone to help him.\"\"It won't be too late to start being yourself.\"\"love\"",
+    "Wordcount":1172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396427 ]
+    },
+    "properties": {
+    "Time":2017,
+    "Month": "Jul 14",
+    "Location":"Dubai",
+    "Quote":"\"love\"",
+    "Wordcount":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419418,37.774929 ]
+    },
+    "properties": {
+    "Time":2017,
+    "Month": "Sep 17",
+    "Location":"San Francisco, the United State",
+    "Quote":"\"Dream.\"\"I will miss you too.\"\"It's fun to have your photo album in the box.\"\"I bought it at a second-hand bookstore. It is about the people and landscape in Vietnam. Also, I paid $50 for this poetry. I think you will like it.\"\"50 dollars?\"\"Yeah, It was published in 1895. Look, I think someone bought it in 1900, and gave someone as a gift. There are some words on the title page.\"\"The singing shepherd.\"\"Have you ever tried to feel the universe?\"\"It seems like it takes forever but it only takes a short amount of time, and everything seems paused.\"\"It is like traveling in timed and space. There was a moment when I felt a strong connection that connected my past, present and future. It seems that I connected these three spaces together.\"\"How about we go to find the magic?\"\"Love makes me happy.\"\"what is love?\"\"Listen Dream, do whatever you want to do and feel whatever you want to fell. Don’t let your brain control your life. You will find out the answer you are looking for if you feel your heart.\"\"But what if I try eventually gain nothing if I try so many things?\"\"Do you believe in destiny?\"\"Yes I do.\"\"The destiny will lead you to become the one you alway want to be.\"\"Goodbye.\"\"I will always miss you.\"\"I will miss you too.\"",
+    "Wordcount":1665
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.198288,20.044413 ]
+    },
+    "properties": {
+    "Time":2018,
+    "Month": "Jan 03",
+    "Location":"Haikou, China",
+    "Quote":"\"Quit your job then go to Boston.\"\"But what can I do if I quit my job in Boston? Go to school? Go to work? Go traveling? What can I do?\"\"You think too much. Listen, either jump or not.\"",
+    "Wordcount":453
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691711,35.689487 ]
+    },
+    "properties": {
+    "Time":2018,
+    "Month": "Mar 18",
+    "Location":"Tokyo, Japan",
+    "Quote":"\"Remember to talk to those ladies!\"\"She's fine! She is 88 years old!\"\"Wow! so amazing!\"\"Goodbye, good night!\"\"I don't belong here. There is no connection between people in Shinjuku. I will be moving to Fukuoka by the end of the year.\"\"And look carefully when you are in the bathroom.\"\"Remember this picture.\"\"Why do you like the moon?.\"\"I lived in the countryside when I was in Bolivia and there was a small rooftop. There was one night when the moonlight drifted in through the window so I went out.  That was the first time I found out the moonlight could be so bright. I was lying on the rooftop and I felt I was flowing and floating in the boundless ocean. It was so relaxed, gentle and comfortable, and nothing else in the rest matter.\"\"Have you ever feel the moonlight in your bedroom?\"\"Just feel it.\"\"So speaking about Natsume Soseki, he once asked his students how to say ‘I love you’ in Japanese. so how to say it in Japanese?\"\"Love してる\"\"Tonight, the moon is beautiful.\"",
+    "Wordcount":1200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.260310,53.349804 ]
+    },
+    "properties": {
+    "Time":2018,
+    "Month": "April 01",
+    "Location":"Dublin, Ireland",
+    "Quote":"\"Remember this picture.\"\"And look carefully when you are in the bathroom.\"\"However, Natsume Soseki said, Japanese don’t express their love in such a straightforward way, they would only need to say 'tonight, the moon is beautiful.’\"",
+    "Wordcount":1404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819839,1.352083 ]
+    },
+    "properties": {
+    "Time":2018,
+    "Month": "Aug 15",
+    "Location":"Singapore",
+    "Quote":"\"You must be joking.\"",
+    "Wordcount":1038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.981712,18.706064 ]
+    },
+    "properties": {
+    "Time":2018,
+    "Month": "Sep 28",
+    "Location":"Chiangmai, Thailand",
+    "Quote":"\"Then I will go with you.\"\"I am going to meet someone I loved. I know that if I don't see him at this time, I might not have chance to see him in the future.\"\"See, I have been always standing outside of the window.\"\"Right now, there's sorrow, pain. Don't kill it and with it the joy you've felt.\"",
+    "Wordcount":1110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9911,40.7359 ]
+    },
+    "properties": {
+    "Time":2019,
+    "Month": "Jan 14",
+    "Location":"New York",
+    "Quote":"\"The fall of New York is coming. One leaf knows the autumn, and one song knows the autumn.\"",
+    "Wordcount":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1350,40.7891 ]
+    },
+    "properties": {
+    "Time":2019,
+    "Month": "Jul 04",
+    "Location":"New York",
+    "Quote":"\"There are a lot of good bars there.\"\"Are there?\"\"corpses\"",
+    "Wordcount":544
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.133209,19.432608 ]
+    },
+    "properties": {
+    "Time":2019,
+    "Month": "Oct 10",
+    "Location":"Mexico City, Mexico",
+    "Quote":"\"Seize the moment and no fear to the future.\"",
+    "Wordcount":1001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9936,40.7259 ]
+    },
+    "properties": {
+    "Time":2019,
+    "Month": "Dec 09",
+    "Location":"New York",
+    "Quote":"\"If I can let go everything and time can make everything fades away, what will be left behind.\"\"I promise.\"\"In the Mood for Love.\"",
+    "Wordcount":892
+    }
+  }
+]
+}

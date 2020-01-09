@@ -1,0 +1,245 @@
+[
+  {
+      "Time": "10/15/2013 ",
+      "Location": "Phnom Penh, Cambodia",
+      "coordinates": [
+          104.928207,
+          11.556374
+      ],
+      "Quote":
+        "\"You will like Phnom Penh. Look, I can use my scooter to take you around the city if you want to.\"",
+      "Wordcount": 2337
+    },
+  {
+    "Time": "11/09/2014 ",
+    "Location": "London, United Kingdom",
+    "coordinates": [
+        -0.127758,
+        51.507351
+    ],
+    "Quote":
+      "\"noisy, noisy, and crowded people\"",
+
+    "Wordcount": 1324
+  },
+  {
+    "Time": "02/07/2015 ",
+    "Location": "Cordoba, Spain",
+    "coordinates": [
+        -4.779383,
+        37.888176
+    ],
+    "Quote": "Look, this is the bridge in the evening, and that is the bridge with the sunrise, and this is the flowers Lane.",
+    "Wordcount": 1667
+  },
+  {
+    "Time": "01/07/2015 ",
+    "Location": "Aachen, Germany",
+    "coordinates": [
+        6.083887,
+        50.775345
+    ],
+    "Quote":
+      "\"It sounds like Murakami's novel. We walked along the forest and there were only two of us. We talked about youth, life and death\"",
+    "Wordcount": 263
+  },
+  {
+    "Time": "02/14/2015 ",
+    "Location": "Lisbon, Portugal",
+    "coordinates": [
+        -9.139337,
+        38.722252
+    ],
+    "Quote":
+      "\"I stand on the edge of the land, and there is an endless journey in front of me.\"",
+    "Wordcount": 128
+  },
+  {
+    "Time": "09/04/2015 ",
+    "Location": "Yangon, Myanmar",
+    "coordinates": [
+        96.195129,
+        16.866070
+    ],
+    "Quote":
+      "\"Look, her it is. It was full of water before, but not it is gone.\"",
+    "Wordcount": 2514
+  },
+  {
+    "Time": "12/31/2015 ",
+    "Location": "Shanghai, China",
+    "coordinates": [
+        121.473701,
+        31.230391
+    ],
+    "Quote":
+      "\"A consistent dedication will make us harvest love, happiness, and happiness.\"",
+    "Wordcount": 1141
+  },
+  {
+    "Time": "02/10/2016 ",
+    "Location": "Haikou, China",
+    "coordinates": [
+        110.198288,
+        20.044413
+    ],
+    "Quote":
+      "\"This is something that I always believe in.\"",
+    "Wordcount": 1565
+  },
+  {
+    "Time": "10/19/2016 ",
+    "Location": "Venice, Italy",
+    "coordinates": [
+        12.315515,
+        45.440845
+    ],
+    "Quote":
+      "\"This is something that I always believe in.\"",
+    "Wordcount": 470
+  },
+  {
+    "Time": "11/04/2016 ",
+    "Location": "Paris, France",
+    "coordinates": [
+        2.352222,
+        48.856613
+    ],
+    "Quote":
+      "\"not reliable, unstable.\"",
+    "Wordcount": 924
+  },
+  {
+    "Time": "01/21/2017 ",
+    "Location": "Hong Kong",
+    "coordinates": [
+        114.109497,
+        22.396427
+    ],
+    "Quote":
+      "\"love\"",
+    "Wordcount": 1172
+  },
+  {
+    "Time": "06/29/2017 ",
+    "Location": "Dubai",
+    "coordinates": [
+        114.109497,
+        22.396427
+    ],
+    "Quote":
+      "\"love\"",
+    "Wordcount": 127
+  },
+  {
+    "Time": "07/14/2017 ",
+    "Location": "San Francisco, the United State",
+    "coordinates": [
+        -122.419418,
+        37.774929
+    ],
+    "Quote":
+      "\"I will miss you too\"",
+    "Wordcount": 1665
+  },
+  {
+    "Time": "09/17/2017  ",
+    "Location": "Haikou, China",
+    "coordinates": [
+        110.198288,
+        20.044413
+    ],
+    "Quote":
+      "\"You think too much. Listen, either jump or not.\"",
+    "Wordcount": 453
+  },
+  {
+    "Time": "01/30/2018 ",
+    "Location": "Tokyo, Japan",
+    "coordinates": [
+        139.691711,
+        35.689487
+    ],
+    "Quote":
+      "\"Goodbye, good night!\"",
+    "Wordcount": 840
+  },
+  {
+    "Time": "03/18/2018 ",
+    "Location": "Dublin, Ireland",
+    "coordinates": [
+        -6.260310,
+        53.349804
+    ],
+    "Quote":
+      "\"How can he came to this world without a mom.\"",
+    "Wordcount": 1404
+  },
+  {
+    "Time": "04/01/2018 ",
+    "Location": "Singapore",
+    "coordinates": [
+        103.819839,
+        1.352083
+    ],
+    "Quote":
+      "\"However, Natsume Soseki said, Japanese don’t express their love in such a straightforward way, they would only need to say 'tonight, the moon is beautiful.’\"",
+    "Wordcount": 1038
+  },
+  {
+    "Time": "08/15/2018 ",
+    "Location": "Chiangmai, Thailand",
+    "coordinates": [
+        98.981712,
+        18.706064
+    ],
+    "Quote":
+      "\"Right now, there's sorrow, pain. Don't kill it and with it the joy you've felt.\"",
+    "Wordcount": 1110
+  },
+  {
+    "Time": "09/28/2018  ",
+    "Location": "New York",
+    "coordinates": [
+        -74.005974,
+        40.712776
+    ],
+    "Quote":
+      "\"The fall of New York is coming. One leaf knows the autumn, and one song knows the autumn.\"",
+    "Wordcount": 259
+  },
+  {
+    "Time": "01/14/2019  ",
+    "Location": "New York",
+    "coordinates": [
+        -74.005974,
+        40.712776
+    ],
+    "Quote":
+      "\"corpses\"",
+    "Wordcount": 544
+  },
+  {
+    "Time": "07/04/2019 ",
+    "Location": "Mexico City, Mexico",
+    "coordinates": [
+        -99.133209,
+        19.432608
+    ],
+    "Quote":
+      "\"Seize the moment and no fear to the future.\"",
+    "Wordcount": 1001
+  },
+  {
+    "Time": "10/10/2019 ",
+    "Location": "New York",
+    "coordinates": [
+        -74.005974,
+        40.712776
+    ],
+    "Quote":
+      "\"In the Mood for Love\"",
+
+    "Wordcount": 892
+  }
+]
